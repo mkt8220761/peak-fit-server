@@ -1,0 +1,14 @@
+{
+  "web": {
+    "client_id": "891549320424-t7k8pol8jpmgm39qrut3epe36sb09687.apps.googleusercontent.com",
+    "project_id": "workout-app-test-b7af4",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [
+      "http://localhost",
+      "https://developers.google.com/oauthplayground"
+    ]
+  }
+}
